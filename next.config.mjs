@@ -12,6 +12,7 @@ const nextConfig = {
   },
   basePath: process.env.NODE_ENV === 'production' ? '/cybersimiot' : '',
   trailingSlash: true,
+  distDir: 'out',
 }
 
 export default nextConfig
