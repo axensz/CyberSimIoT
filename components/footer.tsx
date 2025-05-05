@@ -12,11 +12,7 @@ export default function Footer() {
 
           <div className="text-sm text-muted-foreground">
             <p className="mb-4">
-              Camilo Andrés Guzmán
-              <br />
-              Jorge Andrés Torres Vanegas
-              <br />
-              Juanita Guzmán Cataño
+              Camilo Andrés Guzmán - Jorge Andrés Torres Vanegas - Juanita Guzmán Cataño
             </p>
             <p>&copy; {new Date().getFullYear()} CyberSimIoT. Todos los derechos reservados.</p>
           </div>

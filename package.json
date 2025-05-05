@@ -5,7 +5,7 @@
   "homepage": "https://axensz.github.io/CyberSimIoT",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && touch out/.nojekyll",
+    "build": "next build && node -e \"require('fs').writeFileSync('out/.nojekyll', '')\"",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",

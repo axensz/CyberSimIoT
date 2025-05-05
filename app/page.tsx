@@ -2,7 +2,6 @@ import Header from "@/components/header"
 import Hero from "@/components/hero"
 import About from "@/components/about"
 import Workshops from "@/components/workshops"
-import DataInsights from "@/components/data-insights"
 import Contact from "@/components/contact"
 import Footer from "@/components/footer"
 
@@ -14,7 +13,6 @@ export default function Home() {
         <Hero />
         <About />
         <Workshops />
-        <DataInsights />
         <Contact />
       </main>
       <Footer />
