@@ -10,7 +10,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/cybersimiot' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/CyberSimIoT' : '', // Nota: CyberSimIoT con C y S mayúsculas
   trailingSlash: true,
   distDir: 'out',
 }
