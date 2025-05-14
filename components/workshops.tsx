@@ -70,7 +70,7 @@ export default function Workshops() {
                     </div>
                     <div className="flex justify-between py-1">
                       <span>Precio:</span>
-                      <span>50.000 COP</span>
+                      <span>80.000 COP</span>
                     </div>
                   </div>
                 </div>
@@ -91,7 +91,7 @@ export default function Workshops() {
                     </div>
                     <div className="flex justify-between py-1">
                       <span>Precio:</span>
-                      <span>90.000 COP</span>
+                      <span>150.000 COP</span>
                     </div>
                   </div>
                 </div>
